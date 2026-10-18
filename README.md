@@ -1,7 +1,7 @@
-# Hi, I'm Juilee Shet
+# Juilee Shet
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=240&section=header&text=JUILEE%20SHET&fontSize=46&fontColor=F0F6FC&fontAlign=8&fontAlignY=42&desc=Computer%20Engineering%20%7C%20Software%20%26%20Data&descSize=15&descAlign=8&descAlignY=62" width="100%" alt="Juilee Shet profile banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0D1117&amp;height=240&amp;section=header&amp;text=JUILEE%20SHET&amp;fontSize=46&amp;fontColor=F0F6FC&amp;fontAlign=8&amp;fontAlignY=42&amp;desc=SOFTWARE%20%7C%20TESTING%20%7C%20DATA%20ANALYTICS&amp;descSize=15&amp;descAlign=8&amp;descAlignY=62" width="100%" alt="Juilee Shet profile banner"/>
 </p>
 
 <p align="center">
@@ -14,85 +14,123 @@
 juilee@github: ~/portfolio
 
 $ whoami
-Computer Engineering student at RAIT
+Computer Engineering | RAIT
 
-$ focus
-Software Development | Testing & Automation | Data Analytics
+$ interests
+Software Engineering | Quality Assurance | Data Analytics
+
+$ workflow
+build()  ->  test()  ->  analyze()  ->  improve()
 ```
 
-## About Me
+## `~/about_me`
 
-I'm a Computer Engineering undergraduate at D. Y. Patil Ramrao Adik Institute of Technology, interested in building practical applications, improving software quality, and transforming data into meaningful insights.
+I'm a Computer Engineering undergraduate at D. Y. Patil Ramrao Adik Institute of Technology, passionate about building reliable software, developing practical applications, and transforming data into meaningful insights.
 
-- Currently exploring software development, testing, automation, and data analytics.
-- Software Engineering Intern at Akasa Air, working on enterprise aviation software.
-- Interested in full-stack applications, API integration, database systems, and machine learning.
-- Believe in building reliable software through continuous learning, testing, and problem-solving.
+- Software Engineering Intern at Akasa Air, with experience in enterprise aviation software.
+- Interested in full-stack development, software testing, API integration, and data analytics.
+- Experienced in building database-driven applications and machine-learning-based solutions.
+- Always exploring better ways to develop, test, debug, and improve software.
 
 ## `~/tech_stack`
 
-**Languages**
+### Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" alt="C"/>
 </p>
 
-**Frontend & Backend**
+### Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"/>
 </p>
 
-**Data & Machine Learning**
+### Backend & APIs
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" alt="REST APIs"/>
 </p>
 
-**Testing & Developer Tools**
+### Databases
 
 <p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite"/>
+</p>
+
+### Data Analytics & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" alt="Power BI"/>
+</p>
+
+### Software Testing & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/API_Testing-6C63FF?style=for-the-badge" alt="API Testing"/>
+  <img src="https://img.shields.io/badge/Software_Testing-2E8B57?style=for-the-badge" alt="Software Testing"/>
+  <img src="https://img.shields.io/badge/Debugging-444444?style=for-the-badge" alt="Debugging"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman"/>
+</p>
+
+### Cybersecurity
+
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&amp;logo=burpsuite&amp;logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/VAPT-8A2BE2?style=for-the-badge" alt="Vulnerability Assessment and Penetration Testing"/>
+</p>
+
+### Developer Tools & Design
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&amp;logo=canva&amp;logoColor=white" alt="Canva"/>
 </p>
 
 ## `~/featured_projects`
 
-### Lumina Insights
+### 01. Lumina Insights
 
-A data analytics project focused on exploring data and presenting meaningful insights through analysis and visualization.
+A data analytics project focused on extracting meaningful insights from data through analysis and visualization.
+
+**Focus:** Data processing, analytics, visualization
 
 [View Repository](https://github.com/juileeshet/lumina-insights)
 
-### AeroNexus — Airport Management System
+### 02. AeroNexus — Airport Management System
 
-A full-stack airport management and flight booking application with role-based dashboards, seat selection, booking management, flight operations, and administrative analytics.
+A full-stack airport management and flight booking application with role-based dashboards, interactive seat selection, booking management, flight operations, and administrative analytics.
 
-**Tech:** Python, Flask, SQLite, HTML, CSS, JavaScript
+**Tech:** Python, Flask, SQLite, HTML, CSS, JavaScript, Leaflet
 
 [View Repository](https://github.com/juileeshet/AeroNexus)
 
-### WebShield AI — Phishing Website Detection
+### 03. WebShield AI — Phishing Website Detection
 
-An ML-based phishing URL detection application using Logistic Regression and Random Forest, with URL analysis, risk classification, and an interactive dashboard. The project achieved 93.18% model accuracy.
+A machine-learning-based phishing URL detection system using Logistic Regression and Random Forest, with risk classification, REST APIs, and an interactive dashboard. Achieved 93.18% model accuracy.
 
-**Tech:** Python, FastAPI, Scikit-learn, React, SQLite
+**Tech:** Python, FastAPI, Scikit-learn, React, Vite, SQLite
 
-[Explore More Projects](https://github.com/juileeshet?tab=repositories)
+[Explore All Repositories](https://github.com/juileeshet?tab=repositories)
 
 ## `~/experience.log`
 
@@ -101,30 +139,38 @@ An ML-based phishing URL detection application using Logistic Regression and Ran
 
 - Developed, tested, debugged, and maintained features for an enterprise aviation application.
 - Worked with React, React Native, TypeScript, JavaScript, NestJS, MySQL, and Git.
-- Collaborated with software engineering teams on API integration, troubleshooting, application validation, and feature delivery.
+- Contributed to API integration, application validation, troubleshooting, and software feature delivery.
+
+## `~/certifications`
+
+- CompTIA Security+ (SY0-701)
+- Google AI Essentials
+- CS50: Introduction to Programming with Python
+- Learning Java 11
+- Power BI for Beginners
 
 ## `~/github_stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=juileeshet&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Juilee's GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juileeshet&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=juileeshet&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;rank_icon=github" alt="GitHub statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juileeshet&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=juileeshet&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=juileeshet&amp;theme=github-dark-blue&amp;hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 ## `~/connect`
 
 <p align="center">
   <a href="https://github.com/juileeshet">
-    <img src="https://img.shields.io/badge/GitHub-juileeshet-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+    <img src="https://img.shields.io/badge/GitHub-juileeshet-181717?style=for-the-badge&amp;logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/juilee-shet">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 <p align="center">
-  <i>Build with purpose. Test with precision. Learn continuously.</i>
+  <i>Build with purpose. Test with precision. Turn data into insights.</i>
 </p>

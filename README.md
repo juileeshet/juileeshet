@@ -1,6 +1,12 @@
 # Juilee Shet
 
 <p align="center">
+  <img src="./assets/juilee-banner.png"
+       width="100%"
+       alt="Juilee Shet — Portfolio Banner"/>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0D1117&amp;height=240&amp;section=header&amp;text=JUILEE%20SHET&amp;fontSize=46&amp;fontColor=F0F6FC&amp;fontAlign=8&amp;fontAlignY=42&amp;desc=SOFTWARE%20%7C%20TESTING%20%7C%20DATA%20ANALYTICS&amp;descSize=15&amp;descAlign=8&amp;descAlignY=62" width="100%" alt="Juilee Shet profile banner"/>
 </p>
 

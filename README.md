@@ -1,101 +1,86 @@
-# Juilee Shet | Computer Engineering
+# Juilee Shet
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=JUILEE%20SHET&fontSize=42&fontColor=58A6FF&animation=fadeIn&desc=Computer%20Engineering%20%7C%20Software%20%7C%20Data%20%7C%20Testing&descSize=15&descAlignY=75" width="100%" alt="Juilee Shet profile banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=260&section=header&text=JUILEE%20SHET&fontSize=46&fontColor=F0F6FC&fontAlign=8&fontAlignY=43&desc=Computer%20Engineering%20%7C%20Software%20%26%20Data&descSize=15&descAlign=8&descAlignY=59" width="100%" alt="Juilee Shet profile banner"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/juileeshet">GitHub</a> ·
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/juilee-shet">LinkedIn</a>
 </p>
 
----
+```text
+$ whoami
 
-## `whoami`
+Computer Engineering student at RAIT
+Software Development | Testing & Automation | Data Analytics
+```
 
-I am a Computer Engineering student at Ramrao Adik Institute of Technology (RAIT), interested in building practical software applications, software testing and automation, and data analytics. I enjoy solving problems, exploring new technologies, and turning ideas into functional projects.
+I enjoy building practical applications, testing software for reliability, and turning data into useful insights. My experience includes frontend development, REST API integration, database-driven applications, and software engineering workflows.
 
-Currently exploring opportunities to grow in software engineering, quality assurance, and data-driven application development.
+## `~/workflow`
+
+`01 / Software Development` &nbsp; `02 / Testing & Automation` &nbsp; `03 / Data Analytics & AI`
+
+## `featured_projects`
+
+### Lumina Insights
+A data analytics project focused on transforming data into meaningful insights through analysis and visualization.
+
+[View Repository](https://github.com/juileeshet/lumina-insights)
+
+### AeroNexus
+A full-stack airport management and flight booking application featuring passenger, staff, and admin dashboards, seat selection, booking management, and flight operations.
+
+[View Repository](https://github.com/juileeshet/AeroNexus)
+
+### WebShield AI
+An ML-powered phishing website detection system using URL feature analysis, classification models, and an interactive dashboard.
+
+[Explore Projects](https://github.com/juileeshet?tab=repositories)
 
 ## `tech_stack`
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 **Development**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-**Data Analytics & AI**
+**Data & Machine Learning**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Testing & Tools**
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-## `featured_projects`
+## `experience.log`
 
-### AeroNexus — Airport Management System
-A Flask and SQLite web application for flight booking and airport operations, with passenger, staff, and admin dashboards.
+**Software Engineering Intern — Akasa Air**  
+*June 2026 – August 2026*
 
-**Tech:** Python, Flask, SQLite, HTML, CSS, JavaScript
-
-[View Repository](https://github.com/juileeshet/AeroNexus)
-
-### WebShield AI — Phishing Website Detection
-An ML-based application that analyzes URLs to identify potential phishing websites and provides threat analysis through an interactive dashboard.
-
-**Tech:** Python, FastAPI, Scikit-learn, React, SQLite
-
-[Explore my GitHub repositories](https://github.com/juileeshet?tab=repositories)
-
-### MediFed — Federated Learning for Disease Prediction
-A project exploring privacy-preserving disease prediction across multiple simulated hospitals using federated learning.
-
-**Focus:** Machine learning, federated learning, healthcare data privacy
-
-### NearMe — Local Essentials Comparison Platform
-A proposed platform to compare product availability, prices, and delivery estimates across quick-commerce services in one place.
-
-**Focus:** Full-stack development, data integration, analytics
-
-## `experience`
-
-**Software Intern — Akasa Air**
-
-Worked on the e-techlog application, focusing primarily on frontend development using React, React Native, and TypeScript, along with Git-based collaboration.
-
-## `github_activity`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juileeshet&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juileeshet&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Most used languages"/>
-</p>
+Worked on an enterprise aviation application, developing and testing features, integrating APIs, debugging issues, and collaborating with software engineering teams.
 
 ## `connect`
 
-- GitHub: [@juileeshet](https://github.com/juileeshet)
-- LinkedIn: Add your LinkedIn profile URL here.
-
----
+[GitHub](https://github.com/juileeshet) · [LinkedIn](https://www.linkedin.com/in/juilee-shet)
 
 <p align="center">
-  <i>Learn continuously. Build thoughtfully. Test thoroughly.</i>
+  <i>Build with purpose. Test with precision. Learn continuously.</i>
 </p>

@@ -3,7 +3,9 @@
 # Juilee Shet
 
 <p align="center">
-  <img src="./juilee-banner.png" width="100%" alt="Juilee Shet — Portfolio Banner"/>
+  <img src="./juilee-banner.png.png"
+       width="100%"
+       alt="Juilee Shet — Portfolio Banner"/>
 </p>
 
 <p align="center">

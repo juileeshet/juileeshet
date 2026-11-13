@@ -165,7 +165,7 @@ A machine-learning-based system designed to identify potentially malicious URLs 
 
 **Tech Stack:** Python | FastAPI | Scikit-learn | React | Vite | SQLite
 
-[View Repository →](https://github.com/juileeshet)
+[View Repository →]([https://github.com/juileeshet](https://github.com/juileeshet/WebShield-AI))
 
 <p align="center">
   <a href="https://github.com/juileeshet?tab=repositories">
